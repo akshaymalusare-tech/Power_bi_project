@@ -30,7 +30,7 @@ Users can filter the dashboard based on:
 •	Time Bands
 This allows custom, focused analysis depending on the user's need.
 
-Dashboard Preview
+Dashboard Preview :- (https://github.com/akshaymalusare-tech/Power_bi_project/blob/main/Hospital%20Data%20Analysis.png)
 
 
 
